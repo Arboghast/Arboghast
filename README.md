@@ -1,4 +1,4 @@
 ### Hi there 👋
--  :man_student:  I'm a Rising Senior at Hunter College. 
+-  :man_student:  I'm a Senior at Hunter College. 
 - 🔭 I’m working on some cool stuff.
-- 🌱 I’m currently learning Algorithms and Graph Theory!
+- 🌱 I’m currently learning Data Mining and Machine Learning!
