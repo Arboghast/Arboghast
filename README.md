@@ -1,4 +1,4 @@
-### Thanks for dropping by! :simple_smile:
+### Thanks for dropping by! 😊
 - 👨‍🎓 Graduated December 2021 with a BA in Computer Science
 - :office: Currently working as a Software Engineer at Google
 - 🌱 I’m currently studying game theory!
